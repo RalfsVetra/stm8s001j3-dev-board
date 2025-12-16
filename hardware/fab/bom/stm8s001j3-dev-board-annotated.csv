@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_0603_1608Metric";1;"1uF";"DigiKey";"311-1446-2-ND";
+2;"J2";"PinHeader_1x03_P2.54mm_Vertical";1;"PWR/SWIM";"DigiKey";"732-5316-ND";
+3;"U1";"SO-8_3.9x4.9mm_P1.27mm";1;"STM8S001J3M";"DigiKey";"497-17612-ND";
+4;"R2,R1";"R_0603_1608Metric";2;"4.7K";"DigiKey";"311-4.7KGRTR-ND";
+5;"R3";"R_0603_1608Metric";1;"800R";"DigiKey";"311-806HRTR-ND";
+6;"J1";"PinHeader_1x04_P2.54mm_Vertical";1;"GPIO/I2C";"DigiKey";"732-5317-ND";
+7;"D1";"LED_0603_1608Metric";1;"GREEN";"DigiKey";"475-LGL29K-F2J1-24-0-2-R18-ZTR-ND";

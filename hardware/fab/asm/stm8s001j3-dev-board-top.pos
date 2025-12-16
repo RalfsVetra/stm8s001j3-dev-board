@@ -1,0 +1,14 @@
+### Footprint positions - created on 2025-11-23T23:23:13+0200 ###
+### Printed by KiCad version 9.0.2+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                               PosX       PosY       Rot  Side
+C1        2uF          C_0603_1608Metric                 151.2000   -99.5750   90.0000  top
+D1        GREEN        LED_0603_1608Metric               151.2000  -104.3000  -90.0000  top
+J1        GPIO/I2C     PinHeader_1x04_P2.54mm_Vertical   162.0000   -96.8500    0.0000  top
+J2        PWR/SWIM     PinHeader_1x03_P2.54mm_Vertical   148.4000   -98.2000    0.0000  top
+R1        4.7K         R_0603_1608Metric                 158.5000  -104.3000   90.0000  top
+R2        4.7K         R_0603_1608Metric                 156.5000  -104.3000   90.0000  top
+R3        800R         R_0603_1608Metric                 153.3000  -104.3000  -90.0000  top
+U1        STM8S001J3M  SO-8_3.9x4.9mm_P1.27mm            155.9250   -99.4250    0.0000  top
+## End
